@@ -1,4 +1,6 @@
 🎬 Movies Data Analysis Project
+
+
 📌 Overview
 This project performs an exploratory data analysis (EDA) on a movie dataset to identify patterns and trends related to movie genres, popularity, audience ratings, and release years. The objective is to understand what factors influence a movie’s popularity and rating using real-world data.
 This project is created for learning, practice, and resume-building purposes and demonstrates core data analysis skills using Python.
@@ -55,5 +57,5 @@ ________________________________________
 ________________________________________
 👤 Author
 Tanvi Mahajan
-Bachelor of Computer Applications (BCA) – Data Analytics
+
 
